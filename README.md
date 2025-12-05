@@ -1,1 +1,1 @@
-![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=jacobgil&count_private=true&show_icons=true&include_all_commits=true&show_owner=false&hide=commits,contribs,prs,issues&hide_rank=true)
+![Total Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/jacobgil&label=Total%20Stars&query=%24.stars&color=blue)
